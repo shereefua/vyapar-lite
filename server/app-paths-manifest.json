@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/home/page": "app/home/page.js",
+  "/labourbook/Attendece-Trcker/page": "app/labourbook/Attendece-Trcker/page.js",
+  "/labourbook/Employee-Detail/page": "app/labourbook/Employee-Detail/page.js",
+  "/labourbook/page": "app/labourbook/page.js",
+  "/page": "app/page.js",
+  "/parties/page": "app/parties/page.js",
+  "/sales/invoice/page": "app/sales/invoice/page.js",
+  "/sales/payment-in/page": "app/sales/payment-in/page.js",
+  "/worksite/page": "app/worksite/page.js",
+  "/sales/recievables/page": "app/sales/recievables/page.js"
+}
